@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mitra Umamaheshwaran
-- 👀 I’m interested in Digital Marketing and Industrial Organization Psychology
-- 🌱 I’m currently learning Digital Marketing Bootcamp from UC berkeley and Industrial Organizational Psychology from Seattle Pacific University
-- 💞️ I’m looking to collaborate on Digital Marketing and I/O Psychology
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently working at Liquid Agency
+- 💞️ I’m looking for newer challenges
 - 📫 How to reach me ...
 
 <!---
