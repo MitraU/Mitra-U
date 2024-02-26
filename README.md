@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mitra Umamaheshwaran
 - 👀 I’m a Data Analyst
-- 🌱 I’m currently working at Liquid Agency
+- 🌱 I’m currently working at DexCare
 - 💞️ I’m looking for newer challenges
 - 📫 How to reach me ...
 
